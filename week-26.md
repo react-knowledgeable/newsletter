@@ -1,3 +1,5 @@
+Target date: Apr 26
+
 React Updates
 ---
 - [React Redux `connectAdvanced` will be deprecated](https://github.com/reduxjs/react-redux/issues/1236). Not sure when, but Dan Abramov is also backing that.
