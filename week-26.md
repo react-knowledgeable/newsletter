@@ -7,6 +7,7 @@ React Updates
 Community
 ---
 - [React Amsterdam](https://react.amsterdam/) happend on Apr 10 - 12.
+- [AppsJsConf](https://appjs.co/) happened on Apr 4 - 5. It's a new event for Expo and RN developers held in Europe.
 
 RK talked about...
 ---
