@@ -9,7 +9,7 @@ Community
 - [React Amsterdam](https://react.amsterdam/) happend on Apr 10 - 12.
 - [AppsJsConf](https://appjs.co/) happened on Apr 4 - 5. It's a new event for Expo and RN developers held in Europe.
 - [React Conf AU](https://reactconf.com.au/) will happen on early 2020.
-
+- [React Native is starting to flesh out details for potential RN contributors](https://twitter.com/reactnative/status/1118548423018467331)
 RK talked about...
 ---
 - [Tan Li Hau](https://twitter.com/tanhauhau) spoke about [History of JS Modules](https://github.com/Shopee/react-knowledgeable/issues/83), [slides here](https://slides.com/tanhauhau/deck-9#/). Oh man, please update the title of your slides.
