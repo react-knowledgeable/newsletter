@@ -6,6 +6,10 @@ React Updates
 - [Flow v0.97.0 released](https://github.com/facebook/flow/releases/tag/v0.97.0) Refinement around `typeof` check of `mixed` types, LSP support, misc improvements.
 - [React Redux `connectAdvanced` will be deprecated](https://github.com/reduxjs/react-redux/issues/1236). Not sure when, but Dan Abramov is also backing that.
 
+Opinions
+---
+- [What are your favorite React projects for code reading?](https://www.reddit.com/r/reactjs/comments/bfpl9e/what_are_your_favorite_react_projects_for_code/) An interesting thread to follow on reddit
+
 Community
 ---
 - [React Amsterdam](https://react.amsterdam/) happend on Apr 10 - 12.
