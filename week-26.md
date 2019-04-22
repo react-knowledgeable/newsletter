@@ -5,7 +5,7 @@ React Updates
 - [React v16.9.0 is in alpha](https://github.com/facebook/react/releases/tag/v16.9.0-alpha.0) 
 - [Flow v0.97.0 released](https://github.com/facebook/flow/releases/tag/v0.97.0) Refinement around `typeof` check of `mixed` types, LSP support, misc improvements.
 - [React Redux `connectAdvanced` will be deprecated](https://github.com/reduxjs/react-redux/issues/1236). Not sure when, but Dan Abramov is also backing that.
-- [React Dev Tools v4](https://github.com/bvaughn/react-devtools-experimental/blob/master/OVERVIEW.md), [blog post](https://threadreaderapp.com/thread/1118676986887491584.html) is looking for beta testers, [reddit](https://www.reddit.com/r/reactjs/comments/behnou/react_devtools_v4_update_speed_improvements_new/)
+- [React Dev Tools v4](https://github.com/bvaughn/react-devtools-experimental/blob/master/OVERVIEW.md) is looking for beta testers, [blog post](https://threadreaderapp.com/thread/1118676986887491584.html), [reddit](https://www.reddit.com/r/reactjs/comments/behnou/react_devtools_v4_update_speed_improvements_new/)
 
 Opinions
 ---
