@@ -13,6 +13,7 @@ Opinions
 
 Community
 ---
+- [React Rally](https://ti.to/trace-events/react-rally-2019) will happen on Aug 22-23, in Salt Lake City, Utah. Early bird tickets starts selling from $700 to $800.
 - [React Amsterdam](https://react.amsterdam/) happend on Apr 10 - 12
   - [Requisite React](https://www.youtube.com/watch?v=4KfAS3zrvX8&t=1405s) by [Kent C. Dodds](https://kentcdodds.com/) How understanding an abstraction (React) makes us use it better: goes through a few understanding about JSX. A few suggestions on how to gain better understanding: To understand X, try to build X on your own (i.e., hooks, underscore). Dive into the source code (i.e., Suspense, React Lazy he digged out some Suspense usage not encouraged by the React team 😅)
 - [AppsJsConf](https://appjs.co/) happened on Apr 4 - 5. It's a new event for Expo and RN developers held in Europe.
