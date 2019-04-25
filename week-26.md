@@ -11,6 +11,8 @@ Community
 - [React Amsterdam](https://react.amsterdam/) happend on Apr 10 - 12
   - [Requisite React](https://www.youtube.com/watch?v=4KfAS3zrvX8&t=1405s) by [Kent C. Dodds](https://kentcdodds.com/) How understanding an abstraction (React) makes us use it better: goes through a few understanding about JSX. A few suggestions on how to gain better understanding: To understand X, try to build X on your own (i.e., hooks, underscore). Dive into the source code (i.e., Suspense, React Lazy he digged out some Suspense usage not encouraged by the React team 😅)
 - [AppsJsConf](https://appjs.co/) happened on Apr 4 - 5. It's a new event for Expo and RN developers held in Europe.
+  - [Reasonable React Native Apps](https://youtu.be/gpDQRY0sfpY?t=28292) by [Cem Turan](https://twitter.com/cem2ran). In 2018 we heard from Thien for ReasonML on Web. That was so last year. Its 2019 now, lets bring ReasonML to RN. Maybe this will evoke some emotions from Thien. Best viewed 1.5x the speed.
+  - [React Native fundamentals for brownfield iOS apps](https://youtu.be/gpDQRY0sfpY?t=20236) by [Karan Thakkar](https://karanjthakkar.com/). He explains how to brownfield RN and Native, he also goes on to explain why we have a splashscreen whenever we start an app. I believe this is very similar to how our Shopee's Native Platform & RN work together.
 - [React Native's tweet](https://twitter.com/reactnative/status/1118548423018467331) RN org is starting to flesh out details for potential RN contributors.
 
 RK talked about...
