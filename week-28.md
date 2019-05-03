@@ -6,3 +6,4 @@ React Updates
 Community
 ---
 - React Finland happened, [here](https://twitter.com/_Tx3/status/1123509987953844224) is a recap
+- Seems that [ReactGirls](https://twitter.com/ReactJSgirls) that happened May 2 & 3 in London [was pretty awesome](https://twitter.com/dan_abramov/status/1124365202819026951), [Dan's thread](https://twitter.com/dan_abramov/status/1124227463985475584), 
