@@ -2,6 +2,7 @@ React Updates
 ---
 - [Flow 0.98](https://github.com/facebook/flow/releases/tag/v0.98.0) released
 - Upcoming facebook redesign will be fully powered by React & Relay ([Watch the video](https://developers.facebook.com/videos/2019/building-the-new-facebookcom-with-react-graphql-and-relay/))
+- Microsoft announced new open-source project for supporting React Native in windows ([original link](https://techcrunch.com/2019/05/06/microsoft-launches-react-native-for-windows/))
 
 Community
 ---
