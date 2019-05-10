@@ -13,10 +13,10 @@ Around React
 Community
 ---
 - React Finland happened, [here](https://twitter.com/_Tx3/status/1123509987953844224) is a recap
-- Seems that [ReactGirls](https://twitter.com/ReactJSgirls) that happened May 2 & 3 in London [was pretty awesome](https://twitter.com/dan_abramov/status/1124365202819026951), [Dan's thread](https://twitter.com/dan_abramov/status/1124227463985475584)
-  - They had a gorgeous opening with a Windows 95 theme, and they did [this](https://twitter.com/elibelly?ref_src=twsrc%5Etfw&ref_url=notion%3A%2F%2Fwww.notion.so%2Fwgao19%2FWeek-28-4e5e63612e774dedb3f9e468e73448c9)
-  - Eve Porcello was the emcee. She rocked it with some hilarious stats that you should absolutely see.
+- Seems that [ReactJS Girls](https://twitter.com/ReactJSgirls) that happened May 2 & 3 in London [was pretty awesome](https://twitter.com/dan_abramov/status/1124365202819026951), [Dan's thread](https://twitter.com/dan_abramov/status/1124227463985475584)
+  - They had [a nice poster and a hoodie](https://twitter.com/raquelcandeias/status/1124574183868989441), a gorgeous opening with a Windows 95 theme. [Eve Porcello](https://twitter.com/eveporcello) was the emcee. [She rocked it with some hilarious stats that you should absolutely see](https://www.youtube.com/watch?v=dkl6sYff2C8&feature=youtu.be&t=2070).
   - A few talks of interests:
+    - **Building a Design System with React**, by [Emma Wedekind](https://twitter.com/EmmaWedekind)
     - **The How and Why of Flexible React Components**, by [Jenn Creighton](https://twitter.com/gurlcode), [slides](https://speakerdeck.com/jenncreighton/the-how-and-why-of-flexible-react-components-289aa486-464a-4dea-b89a-6f92d0af6606), [video](https://www.youtube.com/watch?v=dkl6sYff2C8&t=3750s)
     - **Storybook: A React Native Love Story**, by [Erin Fox](https://twitter.com/erinfoox), [slides](https://docs.google.com/presentation/d/1JwoN4F8qyWkpqzWxEiu1WGIl9mrDrmDyVCdlMb2skdk/edit#slide=id.p), [video](https://www.youtube.com/watch?v=dkl6sYff2C8&t=6336s): Whys and hows of their team building their UI components library using Storybook.
     - **Empathy Driven Development**, by [Marcy Sutton](https://twitter.com/marcysutton), [GitHub repo](https://github.com/marcysutton/empathy-driven-development), [video](https://www.youtube.com/watch?v=dkl6sYff2C8&t=16822s): Fixing accessibility issues, and building automated tests for them.
