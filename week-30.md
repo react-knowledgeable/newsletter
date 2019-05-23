@@ -4,18 +4,6 @@ Library Updates
 The world is quiet, no library updates within those we use. Although, 
 - [TypeScript 3.5 RC](https://devblogs.microsoft.com/typescript/announcing-typescript-3-5-rc/) is published
 
-
-Browser Updates
----
-- [Firefox 67 is released](https://www.mozilla.org/en-US/firefox/67.0/releasenotes/), [HTML & CSS-related updates for developers in Firefox 67](https://developer.mozilla.org/en-US/docs/Mozilla/Firefox/Releases/67)
-    + Performance improvements
-    + Better keyboard #a11y
-    + Cryptomining & fingerprinting blocking
-    + CSS Color Scheme Queries
-
-- Firefox 68 for developers is released, check back [here](https://developer.mozilla.org/en-US/docs/Mozilla/Firefox/Releases/68) for release notes
-    + [The CSS feature for truncating multi-line text has been implemented in Firefox](https://webplatform.news/issues/2019-05-17) No longer an excuse to reject multi line truncation
-
 Community
 ---
 - [Dan Abramov's list of people to follow on Twitter who occasionally tweet about React](https://twitter.com/varjmes/status/937281622210236417)
